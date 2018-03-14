@@ -26,6 +26,7 @@ body {
   margin: auto;
   background-color: white;
   padding-bottom: 25px;
+  padding-top: 0;
 }
 
 .soup-header {
